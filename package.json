@@ -1,0 +1,16 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "this is a nodejs api repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "alok kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "expressjs": "^1.0.1"
+  }
+}
